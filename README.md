@@ -6,3 +6,8 @@ Word Frequencies is a Python package that provides functionality to retrieve wor
 
 You can install the package using pip + git.
 
+```
+pip install git+https://github.com/ChrisjanWust/wordfrequencies.git
+```
+
+Also being published on pypi as `wordfrequencies`
